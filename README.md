@@ -15,7 +15,7 @@ To run my application simply clone the project and run the html file.
 
 ## Usage
 
-The object of the game is to get three spaces in a row horizontally, vertically or diagonally. 
+The object of the game is to get three spaces in a row horizontally, vertically, or diagonally. 
 
 ## License
 
